@@ -1,4 +1,8 @@
-Xin chào, tôi cảm thấy rất là buồn cười
-Vì sao lại ở đây nhỉ?
-Tài liệu là sao
+Tôi sẽ giữ nguyên những gì bạn đã xác lập: Map 1 là giấc mơ, Map 2 là Red Mane và cuộc thảm sát, sau đó nhân vật rơi xuống khu vực phía nam Red Mane. Có một điểm hơi chồng chéo trong mô tả của bạn: ban đầu bạn gọi Map 3 là khu vực rừng/đầm lầy West Visnu, sau đó lại gọi “Map 3 (Forsaken)”. Cách tốt nhất về mặt thiết kế là coi Map 3 là một chương lớn gồm hai tiểu vùng liên thông: West Visnu Forest và Forsaken Marsh. Người chơi tỉnh lại ở West Visnu Forest, còn Forsaken Marsh là nhánh phía nam nguy hiểm hơn nhưng có thể bước vào rất sớm.
+Bản đồ vương quốc dùng làm cơ sở thiết kế tuyến truyện
+
+Bản đồ của bạn thực ra rất thích hợp cho cấu trúc action-RPG bán mở. Red Mane nằm ở rìa cực tây; Visnu River tạo thành một biên giới tự nhiên; East Visnu là nút giao giữa miền tây và trung tâm; Cestan River chia Barac/Gile ở phía bắc với Intersilve ở phía nam; Galactama Desert bị kẹp giữa cao nguyên phía tây, Northern Dominion và vùng trung tâm; Iris Island cho phép tạo một tuyến biển hoàn toàn khác với phần còn lại. Thậm chí Galactama Desert nằm ngay sau các dãy núi cũng có thể được giải thích khá hợp lý bằng hiệu ứng rain shadow: các dãy núi cao có thể chặn khối khí ẩm và làm vùng khuất gió khô hơn nhiều. [1]
+Tôi không đề xuất sao chép cốt truyện Elden Ring. Thứ đáng học ở đây là cách kể chuyện. Trang chính thức của Elden Ring nhấn mạnh thế giới với những đối thủ có quá khứ, các nhân vật có động cơ riêng và những vùng cảnh quan/dungeon kết nối; Miyazaki cũng mô tả cách kể chuyện của game là có chiều sâu nhưng phân mảnh, đồng thời cho người chơi tự do chọn thứ tự khám phá. [2] Những nghiên cứu/thảo luận chuyên môn về environmental storytelling cũng chỉ ra rằng kiến trúc, đồ vật, xác chết, bố trí cảnh vật và các rào cản địa hình tự nhiên có thể kể chuyện mà không cần NPC đứng giải thích lore. [3]
+Vì vậy, triết lý tôi dùng cho game của bạn là:
+Người chơi ban đầu tin rằng đây là câu chuyện báo thù. Giữa game họ phát hiện đây là câu chuyện về một chế độ. Cuối game họ phát hiện đây là câu chuyện về chính bản thân mình.
 
